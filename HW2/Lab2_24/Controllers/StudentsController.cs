@@ -28,7 +28,6 @@ namespace Lab2_24.Controllers
 
 
         // Create
-
         [HttpPost]
         public List<Student> Add(Student student)
         {
